@@ -4,3 +4,6 @@
 [submodule "ph-wiki-post-loader"]
 	path = ph-wiki-post-loader
 	url = git@github.com:purduehackers/ph-wiki-post-loader.git
+[submodule "ph-wiki-posts"]
+	path = ph-wiki-posts
+	url = git@github.com:purduehackers/ph-wiki-posts.git
