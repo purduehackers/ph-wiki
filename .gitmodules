@@ -1,0 +1,6 @@
+[submodule "ph-wiki-site"]
+	path = ph-wiki-site
+	url = git@github.com:purduehackers/ph-wiki-site.git
+[submodule "ph-wiki-post-loader"]
+	path = ph-wiki-post-loader
+	url = git@github.com:purduehackers/ph-wiki-post-loader.git
